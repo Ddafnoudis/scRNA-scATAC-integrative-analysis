@@ -9,9 +9,7 @@
 
 10k Human PBMCs, Epi Multiome ATAC + Gene Expression dataset          
 
- 
-
-Analysis questions
+### Analysis questions
 
 1) Run a quality control (QC), integrate/merge the datasets with each other, and cluster them. Based on RNA expression, what celltypes do you find? What clustering method would you use? Show why you made certain decisions/cutoffs for QC and labelling.
 2) What are the functions of one or two cell types, based on a computational analysis?

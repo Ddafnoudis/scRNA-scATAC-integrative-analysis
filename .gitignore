@@ -20,3 +20,19 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+
+# .gitignore
+*.Rhistory
+*.Rproj.user/
+*.html
+*.csv
+*.tar.gz
+*.h5
+*.tbi
+*.gz
+*.bed
+*.tsv
+.RData
+.Rproj
+PBMC_Healthy_Donor/
+10k_Human_PBMCs/

@@ -36,3 +36,5 @@ wget --directory-prefix=10k_Human_PBMCs https://cf.10xgenomics.com/samples/cell-
 wget --directory-prefix=10k_Human_PBMCs https://cf.10xgenomics.com/samples/cell-arc/2.0.0/10k_PBMC_Multiome_nextgem_Chromium_X/10k_PBMC_Multiome_nextgem_Chromium_X_atac_peaks.bed
 wget --directory-prefix=10k_Human_PBMCs https://cf.10xgenomics.com/samples/cell-arc/2.0.0/10k_PBMC_Multiome_nextgem_Chromium_X/10k_PBMC_Multiome_nextgem_Chromium_X_atac_peak_annotation.tsv
 wget --directory-prefix=10k_Human_PBMCs https://cf.10xgenomics.com/samples/cell-arc/2.0.0/10k_PBMC_Multiome_nextgem_Chromium_X/10k_PBMC_Multiome_nextgem_Chromium_X_analysis.tar.gz
+
+echo "Download completed!"

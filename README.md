@@ -1,13 +1,4 @@
-# ATAC-SEQ
-
-### Datasets
-
-1. https://www.10xgenomics.com/datasets/pbmc-from-a-healthy-donor-no-cell-sorting-10-k-1-standard-2-0-0
-  PBMC from a Healthy Donor - Epi Multiome ATAC + Gene Expression dataset
-
-2. https://www.10xgenomics.com/datasets/10-k-human-pbm-cs-multiome-v-1-0-chromium-x-1-standard-2-0-0
-
-10k Human PBMCs, Epi Multiome ATAC + Gene Expression dataset          
+# scRNA-scATAC-integrative-analysis 
 
 ### Analysis questions
 
@@ -21,3 +12,14 @@
 8) Utilizing pycisTopic, what does the ATAC data give you and can you combine it with the RNA data? A simple analysis/QC/clustering and a workflow for the combination is sufficient (if computational difficult, you can also just describe it).
 9) For a spatial analysis e.g. 10x Xenium on our samples, what bioinformatic steps are crucial, to obtain good results?
  
+
+### Datasets
+
+1. https://www.10xgenomics.com/datasets/pbmc-from-a-healthy-donor-no-cell-sorting-10-k-1-standard-2-0-0
+  PBMC from a Healthy Donor - Epi Multiome ATAC + Gene Expression dataset
+
+2. https://www.10xgenomics.com/datasets/10-k-human-pbm-cs-multiome-v-1-0-chromium-x-1-standard-2-0-0
+
+10k Human PBMCs, Epi Multiome ATAC + Gene Expression dataset          
+
+
